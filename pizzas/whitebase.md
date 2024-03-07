@@ -1,6 +1,6 @@
 # the GOAT
 
-- sour cream
+- feta cheese
 - green small pepper
 - shallots
 - paprika powder
@@ -8,3 +8,4 @@
 - arugula
 - cilantro
 - lime
+- chili
